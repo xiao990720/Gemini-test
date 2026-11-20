@@ -1,0 +1,6 @@
+{
+  "name": "Pick-Node Web (macOS Edition)",
+  "description": "Proxy node batch health-checking, multi-region exit IP testing, latency measurement, and AI service availability tool with macOS desktop and menu bar web UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
